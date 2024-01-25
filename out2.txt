@@ -1,0 +1,4 @@
+50 is an even number
+98 is an even number
+34 is an even number
+2 is an even number

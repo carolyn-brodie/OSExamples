@@ -1,0 +1,7 @@
+The number squared is 1849
+The number squared is 2500
+The number squared is 25
+The number squared is 9604
+The number squared is 1156
+The number squared is 1225
+The number squared is 4
